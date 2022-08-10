@@ -1,0 +1,82 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./styles.css"rel="stylesheet" >
+    <title>BouQuet</title>
+</head>
+<body class="text-red-800">
+    
+    <div>
+        <!------------------------Navbar--------------------------------->
+        <div>
+            <nav>
+                <div>
+                    <span>
+                        <a href="/">BouQuet</a>
+                    </span>
+                </div>
+                <ul>
+                    <li>
+                        <a href="#"><span>Home</span></a>
+                    </li>
+                    <li>
+                        <a href="#"><span>About</span></a>
+                    </li>
+                    <li>
+                        <a href="#"><span>Account</span></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+        <!------------------------Main--------------------------------->
+        <main>
+            <div>
+                <a href="#"><span>Sign in</span></a>
+                <a href="#"><span>Sign up</span></a>
+            </div>
+
+            <header>
+                <span>Flowers</span>
+                <span>for You</span>
+            </header>
+
+            <div>
+                <span>Latest Bouquet</span>
+                <!--------------------------------------Cards-------------------------->
+                <div>
+                    <div>
+                        <div><img src="./imgs/white.jpg" alt="white"></div>
+                        <div>
+                            <span>White Quene</span>
+                            <span>for a sermon</span>
+                        </div>
+                    </div>
+                </div>
+           
+                <span>Most Populer</span>
+                <div>
+                    <div>
+                        <div><img src="" alt=""></div>
+                        <div>
+                            <span>White Quene</span>
+                            <span>for a sermon</span>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div>
+                    <div>Show more</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+
+
+</body>
+</html>
